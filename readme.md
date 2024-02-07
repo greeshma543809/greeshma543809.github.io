@@ -24,7 +24,7 @@
  **Instuctor**:*Dr.Vaibhav*
 - **BIO101-Inductory Biology**
 **Instructor**:*Dr.Nipa*
-- **ME102-Engineering graphics  **
+- **ME102-Engineering graphics**
 **Instructor**:*Dr.Arindam Das*
 - **CS102-Software Tools**
 **Instrutor**:*Dr.Client George*
