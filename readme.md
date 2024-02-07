@@ -1,8 +1,8 @@
  
         
 
-         About Me:
-        ![Full shot girl spending time outdoors](https://img.freepik.com/free-photo/full-shot-girl-spending-time-outdoors_23-2151061851.jpg?t=st=1707283273~exp=1707286873~hmac=1421200ca5b0fce772927cf9f93db462d8434c6847e6c27f243ffe0d9a0697c5?ga=GA1.1.278740285.1707282845&) 
+ About Me:
+  ![Full shot girl spending time outdoors](https://img.freepik.com/free-photo/full-shot-girl-spending-time-outdoors_23-2151061851.jpg?t=st=1707283273~exp=1707286873~hmac=1421200ca5b0fce772927cf9f93db462d8434c6847e6c27f243ffe0d9a0697c5?ga=GA1.1.278740285.1707282845&) 
     Hlo! this is **M.Greeshma**. I am a undergraduator in **IIT GOA**.
    Iam from Andra.
 
